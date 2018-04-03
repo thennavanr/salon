@@ -12,6 +12,9 @@ app.get('/gallery', function (req, res) {
    res.render('gallery');
 })
 
+app.get('/services', function (req, res) {
+   res.render('services');
+})
 app.get('/contact', function (req, res) {
    res.render('contact');
 })
