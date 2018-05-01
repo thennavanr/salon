@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /photos
+
+Sitemap: http://pswaxandbrows.com/sitemap_location.xml
